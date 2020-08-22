@@ -1,6 +1,6 @@
-let n=Number(prompt("Entrez un numbre n"))
+let n=Number(prompt("Entrez un numbre n"));
 console.log('n='+n);
-let m=Number(prompt("Entrez un numbre m"))
+let m=Number(prompt("Entrez un numbre m"));
 console.log('m='+m);
 
 

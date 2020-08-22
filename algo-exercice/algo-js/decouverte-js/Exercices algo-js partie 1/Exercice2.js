@@ -1,3 +1,11 @@
-for (let nombres=1; nombres<=10;nombres=nombres+1)
+let nombres=1;
+let somme=0;
+
+
+while (nombres<=10){
+    console.log(nombres);
     somme+=nombres;
-console.log("Somme ="+somme)
+    nombres=nombres+1;
+
+}
+console.log("Somme =" +somme);
